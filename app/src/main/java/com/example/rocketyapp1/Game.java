@@ -29,6 +29,6 @@ public class Game {
     }
 
     public void completeGame() {
-
+        // start completedgameactivity showing the winner result?
     }
 }
